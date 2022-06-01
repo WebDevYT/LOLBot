@@ -1,0 +1,26 @@
+{
+  "name": "lolbot",
+  "version": "0.0.1",
+  "description": ".LOL Community Discord Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDevYT/LOLBot.git"
+  },
+  "author": "WebDevYT | @web#9058 | twitch.tv/webcd | u/WebbCC | webcc.business@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDevYT/LOLBot/issues"
+  },
+  "homepage": "https://github.com/WebDevYT/LOLBot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.33.1",
+    "discord.js": "^13.7.0",
+    "http": "^0.0.1-security"
+  }
+}
